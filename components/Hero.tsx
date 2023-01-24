@@ -9,7 +9,7 @@ function Hero() {
         <div className="flex items-center justify-center min-h-screen bg-fixed bg-center bg-cover custom-img">
             <div className="p-5 text-white z-20">
                 <h1 className="text-7xl">
-                    Hello there.. I am Elmedin<div className="inline animate-blink">_</div>
+                    Hello there... I am Elmedin<div className="inline animate-blink">_</div>
                 </h1>
                 <Navbar />
                 <NavbarMail />
