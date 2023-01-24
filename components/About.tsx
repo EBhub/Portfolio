@@ -21,7 +21,7 @@ function AboutMe() {
                 <Link href="https://www.damnvulnerabledefi.xyz/">
                     <span className="underline">Damn Vulnerable DeFi</span>
                 </Link>{" "}
-                CTFs demonstrates my ability independently learn new technologies, solve complex
+                CTFs demonstrates my ability to independently learn new technologies, solve complex
                 puzzles and think critically.
                 <br />
                 <br />
