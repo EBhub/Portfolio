@@ -10,7 +10,6 @@ function AboutMe() {
                 I'm currently looking for a new role where I can work on challenging problems with
                 smart people. I'm passionate about technology, finance, and art. I also quite enjoy
                 staring at my screen while coding in a constant state of flow.
-                <br /> <br />
             </p>
             <p className="pt-10 text-lg">
                 Technologies I am familiar with and enjoy using: <br />
