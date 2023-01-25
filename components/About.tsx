@@ -36,6 +36,7 @@ function AboutMe() {
                 </ul>
             </p>
             <p>
+                <br/><br/>
                 If you'd like to chat, feel free to send me an e-mail.
             </p>
         </div>
