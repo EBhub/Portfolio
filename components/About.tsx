@@ -11,9 +11,6 @@ function AboutMe() {
                 smart people. I'm passionate about technology, finance, and art. I also quite enjoy
                 staring at my screen while coding in a constant state of flow.
                 <br /> <br />
-                Below are some of the technologies and tools I've worked with, and a few topics I would like
-                to learn more about. If you'd like to chat, feel free to send me an e-mail.
-                <br /> <br />
             </p>
             <p className="pt-10 text-lg">
                 Technologies I am familiar with and enjoy using: <br />
@@ -37,6 +34,9 @@ function AboutMe() {
                     <li>Machine learning</li>
                     <li>Smart contract security</li>
                 </ul>
+            </p>
+            <p>
+                If you'd like to chat, feel free to send me an e-mail.
             </p>
         </div>
     );
