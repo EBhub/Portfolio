@@ -11,7 +11,7 @@ function AboutMe() {
                 smart people. I'm passionate about technology, finance, and art. I also quite enjoy
                 staring at my screen while coding in a constant state of flow.
                 <br /> <br />
-                Below are some of the technologies and tools I've worked with, and a few subjects I would like
+                Below are some of the technologies and tools I've worked with, and a few topics I would like
                 to learn more about. If you'd like to chat, feel free to send me an e-mail.
                 <br /> <br />
             </p>
