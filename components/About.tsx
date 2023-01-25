@@ -7,7 +7,7 @@ function AboutMe() {
                 Hello there! I'm Elmedin, a software engineer and proponent for free open-source
                 software (FOSS).
                 <br /> <br />
-                I'm currently looking for a new role where I can work on challanging problems with
+                I'm currently looking for a new role where I can work on challenging problems with
                 smart people. I'm passionate about technology, finance, and art. I also quite enjoy
                 staring at my screen while coding in a constant state of flow.
                 <br /> <br />
